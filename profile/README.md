@@ -15,18 +15,19 @@ My approach is simple: the best technology works silently and purposefully—**"
 
 ## 🛠️ Tech Stack & Expertise
 - **Mobile:** Flutter, Kotlin, Dart
-- **Frontend:** React, Vue.js, JavaScript (ES6+)
-- **Backend:** Node.js, Python
-- **Full-Stack:** End-to-end development from system design to deployment.
+- **Web & Backend:** React, Vue.js, Node.js, Python
+- **Technical Hub:** Explore my code and projects at [**github.com/cas8398**](https://github.com/cas8398) ⚡
 
 ## 📖 Writing
 **I write, but not as an artist.** I write as a man who spends his nights weaving logic in the shadows—building worlds for thousands while remaining unseen. My books are for those who, like me, find their truth in the silence that most people fear.
+
 > **[Hening yang Berjalan]** – [Explore the Book](https://github.com/cahyanudien/hening-yang-berjalan)
+
 ---
 
 ## 💬 Let's Connect
 - **LinkedIn:** [linkedin.com/in/cahyanudien](https://linkedin.com/in/cahyanudien)
+- **Technical GitHub:** [github.com/cas8398](https://github.com/cas8398)
 - **Founder at:** [FlagoDNA](https://flagodna.com)
-- **GitHub:** [github.com/cahyanudien](https://github.com/cahyanudien)
 
 *Let's talk about building things that matter.*
