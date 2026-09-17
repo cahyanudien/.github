@@ -1,7 +1,7 @@
 # Hi, I'm Cahyanudien 👋
 ### Full-Stack Developer & Founder of FlagoDNA
 
-Building meaningful digital ecosystems from the ground up. Since 2020, I have scaled **FlagoDNA** to serve **60K+ users** across a suite of **15+ specialized applications**.
+Building meaningful digital ecosystems from the ground up. Since 2020, I have scaled **FlagoDNA** to serve **80K+ users** across a suite of **15+ specialized applications**.
 
 ---
 
@@ -21,7 +21,13 @@ My approach is simple: the best technology works silently and purposefully—**"
 ## 📖 Writing
 **I write, but not as an artist.** I write as a man who spends his nights weaving logic in the shadows—building worlds for thousands while remaining unseen. My books are for those who, like me, find their truth in the silence that most people fear.
 
-> **[Hening yang Berjalan]** – [Explore the Book](https://github.com/cahyanudien/hening-yang-berjalan)
+> **[Hening yang Berjalan]** – [Explore the Book](https://www.cahyanudien.site/hening-yang-berjalan/)
+
+> **[Stillness that Walks]** – [Explore the Book](https://www.cahyanudien.site/stillness-that-walks/)
+
+> **[ACHE: Hidup Seperti Apa Ini?]** – [Explore the Book](https://www.cahyanudien.site/ache-hidup-seperti-apa-ini/)
+
+> **[ACHE: What Kind of Life Is This?]** – [Explore the Book](https://www.cahyanudien.site/ache-what-kind-of-life-is-this/)
 
 ---
 
@@ -29,5 +35,6 @@ My approach is simple: the best technology works silently and purposefully—**"
 - **LinkedIn:** [linkedin.com/in/cahyanudien](https://linkedin.com/in/cahyanudien)
 - **Technical GitHub:** [github.com/cas8398](https://github.com/cas8398)
 - **Founder at:** [FlagoDNA](https://flagodna.com)
+- **Personal web:** [Cahyanudien.site](https://www.cahyanudien.site)
 
 *Let's talk about building things that matter.*
